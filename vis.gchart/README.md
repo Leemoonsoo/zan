@@ -1,6 +1,9 @@
 # vis.gchart
 
-Chart library for [Zeppelin](http://zeppelin-project.org) based on [Google Chart](https://developers.google.com/chart/).
+Chart library for [Zeppelin](http://zeppelin-project.org) based on [Google Chart](https://developers.google.com/chart/). This is meta file for online archive. 
+
+Project source code and homepage are at [https://github.com/NFLabs/zeppelin-gchart](https://github.com/NFLabs/zeppelin-gchart)
+
 
 ## How to use
 
