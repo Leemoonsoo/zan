@@ -1,0 +1,5 @@
+{
+	"repository" : "https://github.com/NFLabs/zeppelin-elasticsearch.git",
+	"branch" : "master",
+	"commit" : "264f85ba01d052a838c4ce4a5432d8c71ab766a1"
+}
