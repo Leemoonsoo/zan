@@ -1,0 +1,9 @@
+[submodule "txt.wordcount"]
+	path = txt.wordcount
+	url = https://github.com/Leemoonsoo/zeppelin-wordcount.git
+[submodule "vis.bubble"]
+	path = vis.bubble
+	url = https://github.com/Leemoonsoo/zeppelin-bubble.git
+[submodule "vis.gchart"]
+	path = vis.gchart
+	url = https://github.com/NFLabs/zeppelin-gchart.git
